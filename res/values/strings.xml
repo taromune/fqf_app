@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">FQF</string>
+    <string name="config">Configuración</string>
+    <string name="recargar">Recargar</string>
+    <string name="exit">salir</string>
+    <string name="app_name_long">FrikiQueFriki</string>
+    <string name="random">Random!</string>
+    <string name="notify">Notificaciones</string>
+    <string name="active_sound">¿Notificar con sonido?</string>
+    <string name="active_vibration">¿Notificar con vibración?</string>
+    <string name="save">Guardar</string>
+    <string name="active_led">¿Notificar con led?</string>
+
+</resources>
